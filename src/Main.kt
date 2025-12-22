@@ -1,4 +1,5 @@
 
 fun main() {
-    print("wawawa")
+    println("wawawa")
+    println("aaa")
 }
